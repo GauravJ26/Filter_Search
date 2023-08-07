@@ -31,7 +31,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <header className="App-header">Greendzine task by GJ</header>
+      <header className="App-header">SearchBar by GJ</header>
 
       <h1>List of users</h1>
       <input
@@ -40,6 +40,7 @@ const App = () => {
         value={searchTerm}
         onChange={handleSearch}
       />
+          <p>type to find by name</p>
 
       <ul>
         {filteredUsers.map((user) => (
