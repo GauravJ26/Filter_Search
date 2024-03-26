@@ -32,7 +32,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">SearchBar by GJ</header>
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdF1JuuXMLmKSTIQGjY0G7AcJAPLBOPvMoye9A-D8PK7XqFgA/viewform?embedded=true" width="650" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
       <h1>List of users</h1>
       <input
         type="text"
